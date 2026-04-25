@@ -1,0 +1,14 @@
+programa {
+  funcao inicio() {
+real  valor_produto, valor_percentual , valor_desconto
+escreva(" Digite o valor do produto: ")
+leia(valor_produto)
+escreva(" ")
+leia(valor_percentual)
+escreva("Digite o valor do desconto:")
+leia(valor_desconto)
+valor_desconto = valor_produto *(percentual_desconto/100)
+
+
+  }
+}

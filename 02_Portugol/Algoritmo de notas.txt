@@ -1,0 +1,14 @@
+Algoritmo de notas
+1. Os professores irão passar as provas
+2. Assim que os professores tiver a nota de cada aluno
+3. Eles vão lançar no sistema as notas dos alunos de cada matéria
+4. Até o sistema lançar o sistema irá fazer as somas de todas a notas dos alunos e cada uma das matérias
+5. Assim que estiver feito a soma das notas dos alunos vai fazer a média de nota de cada matéria
+6. Após isso sistema vai verificar a nota mínima da escola (EX: nota mínima é 6)
+7. Assim que o sistema identificar uma média de cada aluno da matéria de ciências menor que a min que é 6
+8. O sistema ira mostrar que em frente do aluno (reprovado) em vermelho
+9. Se o sistema identificar que em alguma matéria o aluno tiver com a média maior que 6 mostrará em frente o nome do aluno (aprovado) em verde
+10. Assim o professor ira saber identificar se o aluno está aprovado ou reprovado sem precisar fazer contas complexas como a de média, professor irá apenas colocar as notas sem precisar de contas.
+11. O professor identificou alunos reprovados ele decidirá se vai passar o trabalho de compensação, e os alunos aprovados receberam a noticia que passou!
+
+Assim o professor vai precisar apenas colocar as notas manualmente sem precisar de contas matemáticas.
